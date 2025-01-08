@@ -19,8 +19,9 @@ What’s in the Project?
 A simple yet important question: How are students distributed by gender?
 Visualized using a countplot to show the proportion of male and female students.
 Insight: The dataset has more female students compared to males.
+![imge_alt](https://github.com/ujjwalkhutale/Data-Analysis-Project/blob/b704476c4df768c8725d30d02a6a7765d4891b0c/Screenshot%202025-01-08%20211734.png)
 
-2. Does Parental Education Influence Scores?
+3. Does Parental Education Influence Scores?
 
 Parents’ education levels might have a role in shaping academic success—so I decided to investigate.
 Using a heatmap, I visualized the average math and reading scores for students based on their parents' education levels.
