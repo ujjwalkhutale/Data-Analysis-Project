@@ -1,20 +1,29 @@
-Student Performance Analysis Using Data Visualization
+# Student Performance Analysis Using Data Visualization
 
 This project focuses on analyzing a dataset of student performance to uncover insights about the relationships between demographic factors and academic scores. The analysis is conducted using Python, leveraging popular libraries like pandas, matplotlib, and seaborn for data manipulation and visualization.
           The goal of the project is to identify patterns in student performance based on gender, parental education, and ethnic group distribution, providing a foundation for deeper data-driven exploration.
 
-#Technologies Used
+# Technologies Used
 
-Programming Language: Python
+ Programming Language: Python
 
-Libraries :>
+# Libraries
 pandas: For data manipulation and aggregation.
 
 matplotlib: For creating detailed and customizable plots.
 
 seaborn: For advanced data visualization with enhanced aesthetics.
 
-What’s in the Project?
+# Files in the Repository
+analysis.py: Python script containing the data analysis and visualization code.
+
+Expanded_data_with_more_features.csv: The dataset used for analysis.
+
+README.md: Project documentation.
+
+requirements.txt: List of required Python libraries.
+
+# What’s in the Project?
 1. Gender Distribution
 A simple yet important question: How are students distributed by gender?
 Visualized using a countplot to show the proportion of male and female students.
@@ -45,7 +54,7 @@ This boxplot visualizes the distribution of math scores between male and female 
 
 ![alt_image](https://github.com/ujjwalkhutale/Data-Analysis-Project/blob/1fbc8f5ff70bc33f1b95bbee79e101abca0b8b76/Screenshot%202025-01-08%20211844.png)
 
-How You Can Run It
+# How You Can Run It
 
 What You’ll Need Python 3.8 or above.
 
@@ -70,7 +79,7 @@ bash
 python analysis.py
 
 
-I see this project as a starting point. Here are a few ideas I’m excited to explore:
+## I see this project as a starting point. Here are a few ideas I’m excited to explore:
 
 Build predictive models to forecast student performance based on demographic factors.
 Add interactive visualizations using tools like Plotly or Dash.
