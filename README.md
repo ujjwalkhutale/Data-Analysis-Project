@@ -41,4 +41,4 @@ Using Bar chart
 Boxplot of Math Scores by Gender
 
 This boxplot visualizes the distribution of math scores between male and female students. It highlights key statistics like median, interquartile range (IQR), and outliers, providing a quick comparison of performance across genders. Labels for the x-axis (Gender) and y-axis (Math Scores),(Readingscore) ensure clarity, while the title describes the plot's purpose. A great way to explore trends and variability in scores!
-![alt_image]()
+![alt_image](https://github.com/ujjwalkhutale/Data-Analysis-Project/blob/e8f2f69c10f2281c10c11ccd99a0fe3e42960ece/Screenshot%202025-01-08%20211825.png)
