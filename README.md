@@ -35,5 +35,5 @@ Insight: The dataset reflects a diverse student population, giving us a great pe
 ![alt_image](https://github.com/ujjwalkhutale/Data-Analysis-Project/blob/dddb87ba9609ea0306b71c1047fdcd46e5d898dd/Screenshot%202025-01-08%20211804.png)
 
 Using Bar chart
-![alt_image]()
+![alt_image](https://github.com/ujjwalkhutale/Data-Analysis-Project/blob/27ee85889e72156eed06daec676972a3966c5a02/Screenshot%202025-01-08%20211815.png)
 
