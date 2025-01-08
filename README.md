@@ -38,7 +38,38 @@ Using Bar chart
 ![alt_image](https://github.com/ujjwalkhutale/Data-Analysis-Project/blob/27ee85889e72156eed06daec676972a3966c5a02/Screenshot%202025-01-08%20211815.png)
 
 
-Boxplot of Math Scores by Gender
+4. Boxplot of Math Scores by Gender
 
 This boxplot visualizes the distribution of math scores between male and female students. It highlights key statistics like median, interquartile range (IQR), and outliers, providing a quick comparison of performance across genders. Labels for the x-axis (Gender) and y-axis (Math Scores),(Readingscore) ensure clarity, while the title describes the plot's purpose. A great way to explore trends and variability in scores!
 ![alt_image](https://github.com/ujjwalkhutale/Data-Analysis-Project/blob/e8f2f69c10f2281c10c11ccd99a0fe3e42960ece/Screenshot%202025-01-08%20211825.png)
+
+![alt_image](https://github.com/ujjwalkhutale/Data-Analysis-Project/blob/1fbc8f5ff70bc33f1b95bbee79e101abca0b8b76/Screenshot%202025-01-08%20211844.png)
+
+How You Can Run It
+What You’ll Need
+Python 3.8 or above.
+Libraries: pandas, matplotlib, and seaborn (you can install them using pip).
+Steps to Get Started
+Clone this repository to your local machine:
+bash
+
+git clone https://github.com/yourusername/Student_Performance_Analysis.git
+Open the project folder:
+bash
+
+cd Student_Performance_Analysis
+Install the required libraries:
+bash
+
+pip install -r requirements.txt
+Run the script:
+bash
+
+python analysis.py
+
+
+I see this project as a starting point. Here are a few ideas I’m excited to explore:
+
+Build predictive models to forecast student performance based on demographic factors.
+Add interactive visualizations using tools like Plotly or Dash.
+Include more datasets to compare trends across different schools or regions.
