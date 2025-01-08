@@ -21,11 +21,12 @@ Visualized using a countplot to show the proportion of male and female students.
 Insight: The dataset has more female students compared to males.
 ![imge_alt](https://github.com/ujjwalkhutale/Data-Analysis-Project/blob/b704476c4df768c8725d30d02a6a7765d4891b0c/Screenshot%202025-01-08%20211734.png)
 
-3. Does Parental Education Influence Scores?
+2. Does Parental Education Influence Scores?
 
 Parents’ education levels might have a role in shaping academic success—so I decided to investigate.
 Using a heatmap, I visualized the average math and reading scores for students based on their parents' education levels.
 Key takeaway: Higher parental education levels tend to correlate with better student performance.
+![image_alt](https://github.com/ujjwalkhutale/Data-Analysis-Project/blob/9e440c81fc04338c527cfbc831f7681f4c5cabf6/Screenshot%202025-01-08%20211754.png)
 
 3. Ethnic Group Distribution
 
