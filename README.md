@@ -32,4 +32,8 @@ Key takeaway: Higher parental education levels tend to correlate with better stu
 
 Understanding the diversity in the dataset, I broke down the ethnic groups into a pie chart and a bar plot.
 Insight: The dataset reflects a diverse student population, giving us a great perspective for analysis.
+![alt_image](https://github.com/ujjwalkhutale/Data-Analysis-Project/blob/dddb87ba9609ea0306b71c1047fdcd46e5d898dd/Screenshot%202025-01-08%20211804.png)
+
+Using Bar chart
+![alt_image]()
 
