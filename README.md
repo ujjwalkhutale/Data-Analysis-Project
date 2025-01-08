@@ -46,12 +46,14 @@ This boxplot visualizes the distribution of math scores between male and female 
 ![alt_image](https://github.com/ujjwalkhutale/Data-Analysis-Project/blob/1fbc8f5ff70bc33f1b95bbee79e101abca0b8b76/Screenshot%202025-01-08%20211844.png)
 
 How You Can Run It
-What You’ll Need
-Python 3.8 or above.
+
+What You’ll Need Python 3.8 or above.
+
 Libraries: pandas, matplotlib, and seaborn (you can install them using pip).
+
 Steps to Get Started
-Clone this repository to your local machine:
-bash
+
+Clone this repository to your local machine: bash
 
 git clone https://github.com/yourusername/Student_Performance_Analysis.git
 Open the project folder:
